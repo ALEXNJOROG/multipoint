@@ -61,7 +61,7 @@ const SERVICES = [
     num: '01',
     title: 'Infrastructure & Urban Development',
     desc: 'We provide integrated advisory services across the full infrastructure lifecycle, supporting governments and private sector players in the planning, structuring, financing, and delivery of resilient infrastructure. Our approach combines technical, financial, digital, and climate considerations to ensure projects are sustainable, bankable, and aligned with long-term development objectives.',
-    img: '/images/infrastructure.jpg',
+    img: '/images/mp service1.jpg',
     alt: 'Infrastructure & Urban Development',
     tag: 'Planning · Finance · Delivery',
   },
@@ -69,7 +69,7 @@ const SERVICES = [
     num: '02',
     title: 'Digital Transformation & IT Services',
     desc: 'We support organizations in leveraging technology to improve efficiency, transparency, and service delivery. Our services span IT strategy, digital infrastructure, data analytics, and systems advisory, underpinned by applied research and innovation to enable secure, scalable, and future-ready digital solutions.',
-    img: '/images/digital.jpg',
+    img: '/images/mp service2.jpg',
     alt: 'Digital Transformation',
     tag: 'IT Strategy · Data Analytics · Innovation',
   },
@@ -77,7 +77,7 @@ const SERVICES = [
     num: '03',
     title: 'Climate Change, Energy & Sustainability',
     desc: 'We advise on climate risk, clean energy transitions, and sustainability strategies that align with international frameworks and local contexts. Our work helps clients integrate ESG considerations, access green finance, and build resilient operations in a changing climate landscape.',
-    img: '/images/climate.jpg',
+    img: '/images/mp service3.jpg',
     alt: 'Climate & Sustainability',
     tag: 'ESG · Green Finance · Resilience',
   },
@@ -85,7 +85,7 @@ const SERVICES = [
     num: '04',
     title: 'Research, Policy & Development Advisory',
     desc: 'We deliver evidence-based research and policy advisory to inform decision-making at national, regional, and institutional levels. Our services include sector studies, impact assessments, feasibility analysis, and data analytics, bridging research with practical implementation across infrastructure, technology, and climate-related initiatives.',
-    img: '/images/research.jpg',
+    img: '/images/mp service4.jpg',
     alt: 'Research & Policy Advisory',
     tag: 'Research · Policy · Analytics',
   },
@@ -93,7 +93,7 @@ const SERVICES = [
     num: '05',
     title: 'Public Sector & Institutional Advisory',
     desc: 'We partner with public institutions, development agencies, and corporates to strengthen governance, institutional capacity, and project delivery. Our multidisciplinary advisory integrates infrastructure development, digital systems, research, and climate considerations to enhance accountability, performance, and long-term public value.',
-    img: '/images/public-sector.jpg',
+    img: '/images/mp service5.jpg',
     alt: 'Public Sector Advisory',
     tag: 'Governance · Capacity · Delivery',
   },
@@ -481,7 +481,7 @@ export default function Home() {
             <div className="relative">
               <div className="relative h-[420px] rounded-2xl overflow-hidden shadow-2xl bg-slate-200">
                 <Image
-                  src="/images/about-team.jpg"
+                  src="/images/mp aboutus.jpg"
                   alt="Multipoint Advisory Team"
                   fill
                   className="object-cover"
@@ -510,7 +510,7 @@ export default function Home() {
           {/* Port / Infrastructure hero image */}
           <div className="relative h-72 md:h-96 rounded-3xl overflow-hidden shadow-2xl">
             <Image
-              src="/images/port-infrastructure.jpg"
+              src="/images/mp hero.jpg"
               alt="Infrastructure & Port Development"
               fill
               className="object-cover"
@@ -559,7 +559,7 @@ export default function Home() {
           {/* Values image with overlay */}
           <div className="relative h-72 md:h-96 rounded-3xl overflow-hidden shadow-2xl">
             <Image
-              src="/images/values-team.jpg"
+              src="/images/mp values.jpg"
               alt="Our Team and Values"
               fill
               className="object-cover"
