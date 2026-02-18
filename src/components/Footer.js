@@ -9,6 +9,7 @@ const NAV_ITEMS = [
   { id: 'about',    label: 'About Us',     href: '/#about' },
   { id: 'values',   label: 'Our Values',   href: '/#values' },
   { id: 'services', label: 'Our Services', href: '/services' },
+  { id: 'training', label: 'Training',     href: '/training' },
 ];
 
 export default function Footer() {

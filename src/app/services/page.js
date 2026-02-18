@@ -37,7 +37,7 @@ const SERVICES = [
     num: '02',
     title: 'Digital Transformation & IT Services',
     desc: 'We support organizations in leveraging technology to improve efficiency, transparency, and service delivery. Our services span IT strategy, digital infrastructure, data analytics, and systems advisory, underpinned by applied research and innovation to enable secure, scalable, and future-ready digital solutions.',
-    img: '/images/mp service2.jpg',
+    img: '/images/mp service 2.jpg',
     alt: 'Digital Transformation',
     tag: 'IT Strategy · Data Analytics · Innovation',
     icon: '💻',
