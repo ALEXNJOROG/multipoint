@@ -572,7 +572,7 @@ export default function TrainingPage() {
               <span className="w-10 h-10 bg-white/10 rounded-xl flex items-center justify-center text-lg">✉️</span>
               <div className="text-left">
                 <p className="text-xs text-slate-400 uppercase tracking-wider">Email Us</p>
-                <a href="mailto:multipointtraininginstitute@gmail.com" className="font-bold hover:text-blue-300 transition-colors text-sm">multipointtraininginstitute@gmail.com</a>
+                <a href="mailto:multipointtraininginstitute@gmail.com" className="font-bold hover:text-blue-300 transition-colors text-sm">training@multipointadvisory.com</a>
               </div>
             </div>
             <div className="w-px h-10 bg-white/20 hidden sm:block" />
@@ -580,7 +580,7 @@ export default function TrainingPage() {
               <span className="w-10 h-10 bg-white/10 rounded-xl flex items-center justify-center text-lg">📍</span>
               <div className="text-left">
                 <p className="text-xs text-slate-400 uppercase tracking-wider">Visit Us</p>
-                <p className="font-bold text-sm">Delta Corner Annex, Westlands</p>
+                <p className="font-bold text-sm">Pinetree Plaza 8th Floor, Kaburu Drive</p>
               </div>
             </div>
           </div>
